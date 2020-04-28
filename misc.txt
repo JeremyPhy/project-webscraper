@@ -2,6 +2,9 @@ ip address: 192.168.2.167
 ssh to pi using: ssh pi@192.168.2.167
 pw: raspberry
 
-
+SCP:
 https://raspberrypi.stackexchange.com/questions/39990/scp-file-transfer-between-pi-and-windows
 https://unix.stackexchange.com/questions/172385/cp-cannot-stat-no-such-file-or-directory
+
+GPIO:
+https://www.raspberrypi.org/documentation/usage/gpio/python/README.md
