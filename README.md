@@ -1,2 +1,2 @@
-# raspberri-pi-project
-A proejct to familiarize myself with raspberri pi
+# project-webscraper
+A side project to familiarize myself with python
